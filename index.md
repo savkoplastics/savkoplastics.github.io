@@ -2,4 +2,7 @@
 layout: default
 ---
 
-Coming soon: All of the products we manufacture.
+{% for product in site.data.products %}
+  {{ product.name }}
+  {{ product.partnumber }}
+{% endfor %}
