@@ -1,8 +1,11 @@
-{% include header.html %}
 <link rel="stylesheet" href="assets/main.css">
 
-<div class="content">
-    {{ content }}
-</div>
+<body>
+  {% include header.html %}
 
-{% include footer.html %}
+  <main class="wrapper main-content">
+      {{ content }}
+  </main>
+
+  {% include footer.html %}
+</body>

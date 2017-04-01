@@ -2,4 +2,4 @@
 layout: default
 ---
 
-<b>Parts and Things</b>
+Coming soon: All of the products we manufacture.
