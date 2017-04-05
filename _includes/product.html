@@ -1,5 +1,9 @@
 <style>
 
+  table {
+    width: 100%;
+  }
+
   td,th {
     padding: 10px;
     font-weight: 500;
@@ -36,91 +40,92 @@
         <div class="product-photo-container" id="productPhoto">
           <img id="productPhotoImg" src="{{ product.images[0] }}">
         </div>
-        <ul class="product-photo-thumbs grid-uniform" id="productThumbs">
-          {% for image in product.images %}
-            <li class="grid-item medium-down--one-quarter large--one-quarter">
-              <a href="{{ image | img_url: 'large' }}" class="product-photo-thumb">
-                <img src="{{ image }}">
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
       </div>
     </div>
   </div>
   <div class="grid-item large--three-fifths">
-    <h2 itemprop="name">{{ product.title }}</h2>
-    <div style="margin-bottom: 15px">
-      {{ product.description }}
+    <div class="grid">
+      <div class="grid-item large--one">
+      <table>
+        {% for variant in product.variants %}
+        {% if forloop.first %}
+        <tr>
+          <th colspan=5 style="border:0; vertical-align: top; padding-left: 0">
+            <h2 itemprop="name">{{ product.title }}</h2>
+            <div style="margin-bottom: 15px">
+              {{ product.description }}
+            </div>
+          </th>
+          <th colspan={{ 5 + sides }} style="border:0; text-align:center; padding:0; padding-bottom: 20px; vertical-align: bottom">
+            <img id="productPhotoImg" src="{{ product.images[1] }}" height="130px" width="130px">
+          </th>
+        </tr>
+        <tr>
+          <th colspan=5 style="border:0">
+          </th>
+          <th colspan={{ 5 + sides }} style="padding:5px; text-align: center; background: #ededed; border: none">
+            Dimensions (in.)
+          </th>
+        </tr>
+        <tr>
+          <th class="header">Part&nbsp;#</th>
+          <th class="header">Size</th>
+          <th class="header">Material</th>
+          <th class="header">Weight&nbsp;(lb)</th>
+          <th class="header">Box&nbsp;qty.</th>
+          {% if sides >= 1 %}
+          <th class="header ">A</th>
+          {% endif %}
+          {% if sides >= 2 %}
+          <th class="header">B</th>
+          {% endif %}
+          {% if sides >= 3 %}
+          <th class="header">C</th>
+          {% endif %}
+          {% if sides >= 4 %}
+          <th class="header">D</th>
+          {% endif %}
+        </tr>
+        {% endif %}
+        <tr>
+          <td>
+            {{ variant.sku }}
+          </td>
+          <td>
+            {{ variant.size }}
+          </td>
+          <td>
+            {{ variant.material }}
+          </td>
+          <td>
+            {{ variant.weight }}
+          </td>
+          <td>
+            {{ variant.box }}
+          </td>
+          {% if variant['side.a'] %}
+          <td>
+            {{ variant['side.a'] }}
+          </td>
+          {% endif %}
+          {% if variant['side.b'] %}
+          <td>
+            {{ variant['side.b'] }}
+          </td>
+          {% endif %}
+          {% if variant['side.c'] %}
+          <td>
+            {{ variant['side.c'] }}
+          </td>
+          {% endif %}
+          {% if variant['side.d'] %}
+          <td>
+            {{ variant['side.d'] }}
+          </td>
+          {% endif %}
+        </tr>
+        {% endfor %}
+      </table>
     </div>
-    <table>
-      {% for variant in product.variants %}
-      {% if forloop.first %}
-      <tr>
-        <th colspan=5 style="border:0">
-        </th>
-        <th colspan={{ 5 + sides }} style="padding:5px; text-align: center; background: #ededed; border: none">
-          Dimensions (in.)
-        </th>
-      </tr>
-      <tr>
-        <th class="header">Part&nbsp;#</th>
-        <th class="header">Size</th>
-        <th class="header">Material</th>
-        <th class="header">Weight&nbsp;(lb)</th>
-        <th class="header">Box&nbsp;qty.</th>
-        {% if sides >= 1 %}
-        <th class="header ">A</th>
-        {% endif %}
-        {% if sides >= 2 %}
-        <th class="header">B</th>
-        {% endif %}
-        {% if sides >= 3 %}
-        <th class="header">C</th>
-        {% endif %}
-        {% if sides >= 4 %}
-        <th class="header">D</th>
-        {% endif %}
-      </tr>
-      {% endif %}
-      <tr>
-        <td>
-          {{ variant.sku }}
-        </td>
-        <td>
-          {{ variant.size }}
-        </td>
-        <td>
-          {{ variant.material }}
-        </td>
-        <td>
-          {{ variant.weight }}
-        </td>
-        <td>
-          {{ variant.box }}
-        </td>
-        {% if variant['side.a'] %}
-        <td>
-          {{ variant['side.a'] }}
-        </td>
-        {% endif %}
-        {% if variant['side.b'] %}
-        <td>
-          {{ variant['side.b'] }}
-        </td>
-        {% endif %}
-        {% if variant['side.c'] %}
-        <td>
-          {{ variant['side.c'] }}
-        </td>
-        {% endif %}
-        {% if variant['side.d'] %}
-        <td>
-          {{ variant['side.d'] }}
-        </td>
-        {% endif %}
-      </tr>
-      {% endfor %}
-    </table>
   </div>
 </div>
