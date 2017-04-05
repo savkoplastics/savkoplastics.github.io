@@ -15,10 +15,6 @@
     color: white;
   }
 
-  .grid-item {
-    padding-left: 15px;
-  }
-
 </style>
 
 {% assign product = page.product %}
@@ -35,31 +31,14 @@
 
 <div class="grid">
   <div class="grid-item large--two-fifths">
-    <div class="grid">
-      <div class="grid-item large--eleven-twelfths text-center">
-        <div class="product-photo-container" id="productPhoto">
-          <img id="productPhotoImg" src="{{ product.images[0] }}">
-        </div>
-      </div>
-    </div>
+      <img id="productPhotoImg" src="{{ product.images[0] }}">
   </div>
   <div class="grid-item large--three-fifths">
     <div class="grid">
-      <div class="grid-item large--one">
+      <h1 itemprop="name">{{ product.title }}</h1>
       <table>
         {% for variant in product.variants %}
         {% if forloop.first %}
-        <tr>
-          <th colspan=5 style="border:0; vertical-align: top; padding-left: 0">
-            <h2 itemprop="name">{{ product.title }}</h2>
-            <div style="margin-bottom: 15px">
-              {{ product.description }}
-            </div>
-          </th>
-          <th colspan={{ 5 + sides }} style="border:0; text-align:center; padding:0; padding-bottom: 20px; vertical-align: bottom">
-            <img id="productPhotoImg" src="{{ product.images[1] }}" height="130px" width="130px">
-          </th>
-        </tr>
         <tr>
           <th colspan=5 style="border:0">
           </th>
@@ -126,6 +105,14 @@
         </tr>
         {% endfor %}
       </table>
+      <div class="grid" style="padding-top: 20px">
+        <div class="grid-item three-quarters" style="padding-top: 10px; font-size: 15px">
+          {{ product.description }}
+        </div>
+        <div class="grid-item one-quarter">
+          <img id="productPhotoImg" src="{{ product.images[1] }}">
+        </div>
+      </div>
     </div>
   </div>
 </div>
