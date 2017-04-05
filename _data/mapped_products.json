@@ -1,0 +1,1033 @@
+[
+  {
+    "title": "22 1/2º Elbow",
+    "handle": "22-1-2-bend",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "330",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "25",
+        "side.a": "4 3/8",
+        "side.b": "5/16",
+        "weight": ".24"
+      },
+      {
+        "sku": "430",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "30",
+        "side.a": "5 3/4",
+        "side.b": "5/8",
+        "weight": ".35"
+      },
+      {
+        "sku": "7430",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "30",
+        "side.a": "5 3/4",
+        "side.b": "5/8",
+        "weight": ".456"
+      },
+      {
+        "sku": "630",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "12",
+        "side.a": "8 5/8",
+        "side.b": "7/8",
+        "weight": "1.5"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/2_22.5_BEND_sql.jpg?v=1490632610",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/2_22.5_BEND_sqr.jpg?v=1490614831"
+    ]
+  },
+  {
+    "title": "45º Elbow",
+    "handle": "45-ell",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "332",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "100",
+        "side.a": "5 3/8",
+        "side.b": "5/8",
+        "weight": ".25"
+      },
+      {
+        "sku": "432",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "50",
+        "side.a": "6 1/2",
+        "side.b": "7/8",
+        "weight": ".43"
+      },
+      {
+        "sku": "7432",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "50",
+        "side.a": "6 1/2",
+        "side.b": "7/8",
+        "weight": ".56"
+      },
+      {
+        "sku": "632",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "12",
+        "side.a": "10",
+        "side.b": "1 3/8",
+        "weight": "1.76"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/3_45_BEND_a_sql.jpg?v=1490615970",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/3_45_BEND_a_sqr.jpg?v=1490615976"
+    ]
+  },
+  {
+    "title": "45º Street Elbow",
+    "handle": "45-street-ell",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "333",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "100",
+        "side.a": "5 1/4",
+        "side.b": "5/8",
+        "weight": ".22"
+      },
+      {
+        "sku": "433",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "50",
+        "side.a": "6 3/8",
+        "side.b": "7/8",
+        "weight": ".36"
+      },
+      {
+        "sku": "7433",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "50",
+        "side.a": "6 3/8",
+        "side.b": "7/8",
+        "weight": ".47"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/3_45_BEND_b_sql.jpg?v=1490619170",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/3_45_BEND_b_sqr.jpg?v=1490619176"
+    ]
+  },
+  {
+    "title": "90º Elbow",
+    "handle": "90-ell",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "332",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "80",
+        "side.a": "4 7/8",
+        "side.b": "1 5/8",
+        "weight": ".3"
+      },
+      {
+        "sku": "432",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "35",
+        "side.a": "6 1/4",
+        "side.b": "2 1/16",
+        "weight": ".59"
+      },
+      {
+        "sku": "7432",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "35",
+        "side.a": "6 1/8",
+        "side.b": "2 1/16",
+        "weight": ".78"
+      },
+      {
+        "sku": "632",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "8",
+        "side.a": "9 11/16",
+        "side.b": "3 3/8",
+        "weight": "2.71"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/4_90_ELL_a_sql.jpg?v=1490638992",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/4_90_ELL_a_sqr.jpg?v=1490638996"
+    ]
+  },
+  {
+    "title": "90º Long Turn Elbow",
+    "handle": "90-long-turn-ell",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "335",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "60",
+        "side.a": "2 3/4",
+        "side.b": "6 1/2",
+        "weight": ".48"
+      },
+      {
+        "sku": "435",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "30",
+        "side.a": "3 1/2",
+        "side.b": "7 13/16",
+        "weight": ".72"
+      },
+      {
+        "sku": "7435",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "30",
+        "side.a": "3 1/2",
+        "side.b": "7 13/16",
+        "weight": ".93"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/4_90_ELL_b_sql.jpg?v=1490641552",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/4_90_ELL_b_sqr.jpg?v=1490641555"
+    ]
+  },
+  {
+    "title": "90º Long Turn Street Elbow",
+    "handle": "90-long-turn-street-ell",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "336",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "60",
+        "side.a": "2 3/4",
+        "side.b": "6 1/4",
+        "weight": ".45"
+      },
+      {
+        "sku": "436",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "30",
+        "side.a": "3 1/2",
+        "side.b": "7 5/8",
+        "weight": ".69"
+      },
+      {
+        "sku": "7436",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "30",
+        "side.a": "3 1/2",
+        "side.b": "7 5/8",
+        "weight": ".88"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/4_90_ELL_c_sql.jpg?v=1490643462",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/4_90_ELL_c_sqr.jpg?v=1490643466"
+    ]
+  },
+  {
+    "title": "Downspout Adapter, Centered",
+    "handle": "downspout-adapter",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "356",
+        "size": "2\" x 3\" x 3\"",
+        "material": "PVC",
+        "box": "60",
+        "side.a": "3 5/8",
+        "side.b": "2 5/8",
+        "side.c": "2 1/8",
+        "side.d": "1 3/4",
+        "weight": ".28"
+      },
+      {
+        "sku": "457",
+        "size": "3\" x 4\" x 4\"",
+        "material": "PVC",
+        "box": "30",
+        "side.a": "4 1/2",
+        "side.b": "3 1/2",
+        "side.c": "2 1/8",
+        "side.d": "2",
+        "weight": ".39"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/10_DSA_b_sql.jpg?v=1490807138",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/10_DSA_b_sqr.jpg?v=1490807146"
+    ]
+  },
+  {
+    "title": "Downspout Adapter, Offset",
+    "handle": "downspout-adapter-offset",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "423",
+        "size": "2\" x 3\" x 4\"",
+        "material": "PVC",
+        "box": "40",
+        "side.a": "3 1/2",
+        "side.b": "2 1/2",
+        "side.c": "2 1/8",
+        "side.d": "2",
+        "weight": ".37"
+      },
+      {
+        "sku": "454",
+        "size": "3\" x 4\" x 4\"",
+        "material": "PVC",
+        "box": "24",
+        "side.a": "4 3/4",
+        "side.b": "3 3/4",
+        "side.c": "2 1/8",
+        "side.d": "1 15/16",
+        "weight": ".44"
+      },
+      {
+        "sku": "657",
+        "size": "4\" x 6\" x 6\"",
+        "material": "PVC",
+        "box": "8",
+        "side.a": "6 1/8",
+        "side.b": "4 1/8",
+        "side.c": "2 1/8",
+        "side.d": "3",
+        "weight": "1.1"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/10_DSA_a_sql.jpg?v=1490808292",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/10_DSA_a_sqr.jpg?v=1490808296"
+    ]
+  },
+  {
+    "title": "Downspout Adapter, Reducing",
+    "handle": "downspout-adapter-reducing",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "343",
+        "size": "3\" x 4\" x 3\"",
+        "material": "PVC",
+        "box": "50",
+        "side.a": "4 1/2",
+        "side.b": "3 1/2",
+        "side.c": "2 1/8",
+        "side.d": "1 7/8",
+        "weight": ".37"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/10_DSA_d_sql.jpg?v=1490813301",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/10_DSA_d_sqr.jpg?v=1490813305"
+    ]
+  },
+  {
+    "title": "Downspout Adapter, Increasing",
+    "handle": "downspout-adapter-increasing",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "456",
+        "size": "2\" x 3\" x 4\"",
+        "material": "PVC",
+        "box": "60",
+        "side.a": "3 5/8",
+        "side.b": "2 5/8",
+        "side.c": "2 1/8",
+        "side.d": "1 3/4",
+        "weight": ".38"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/10_DSA_c_sql.jpg?v=1490812836",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/10_DSA_c_sqr.jpg?v=1490812841"
+    ]
+  },
+  {
+    "title": "Cast Iron Adapter",
+    "handle": "cast-iron-adapter",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "455",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "36",
+        "side.a": "6 1/4",
+        "side.b": "1/8",
+        "side.c": "4 3/4",
+        "weight": ".5"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/8_ADAPTER_b_sql.jpg?v=1490819892",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/8_ADAPTER_b_sqr.jpg?v=1490819898"
+    ]
+  },
+  {
+    "title": "Clay Adapter",
+    "handle": "clay-adapter",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "445",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "18",
+        "side.a": "5 5/8",
+        "side.b": "1/8",
+        "side.c": "4 5/8",
+        "weight": ".6"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/8_ADAPTER_a_sql.jpg?v=1490885249",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/8_ADAPTER_a_sqr.jpg?v=1490885266"
+    ]
+  },
+  {
+    "title": "Cleanout Adapter",
+    "handle": "cleanout-adapter",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "349",
+        "size": "3\"",
+        "material": "PVC",
+        "box": "30",
+        "side.a": "3 3/4",
+        "side.b": "2 7/8",
+        "side.c": "1 1/16",
+        "weight": ".28"
+      },
+      {
+        "sku": "449",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "40",
+        "side.a": "4 7/8",
+        "side.b": "4",
+        "side.c": "1 3/8",
+        "weight": ".47"
+      },
+      {
+        "sku": "649",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "20",
+        "side.a": "7",
+        "side.b": "4 3/4",
+        "side.c": "1 5/8",
+        "weight": ".7"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/11_ADAPTER_a_sql.jpg?v=1490818487",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/11_ADAPTER_a_sqr.jpg?v=1490818490"
+    ]
+  },
+  {
+    "title": "Female Adapter",
+    "handle": "female-adapter",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "374",
+        "size": "3\"",
+        "material": "PVC",
+        "box": "30",
+        "side.a": "3 3/4",
+        "side.b": "2 5/8",
+        "side.c": "1 1/4",
+        "weight": ".26"
+      },
+      {
+        "sku": "474",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "40",
+        "side.a": "4 7/8",
+        "side.b": "3 1/4",
+        "side.c": "1 3/8",
+        "weight": ".56"
+      },
+      {
+        "sku": "674",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "15",
+        "side.a": "7",
+        "side.b": "4 3/4",
+        "side.c": "1 5/8",
+        "weight": "1.04"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/11_ADAPTER_b_sql.jpg?v=1490818844",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/11_ADAPTER_b_sqr.jpg?v=1490818854"
+    ]
+  },
+  {
+    "title": "Plug",
+    "handle": "plug",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "351",
+        "size": "3\"",
+        "material": "PVC",
+        "box": "30",
+        "side.a": "1 3/4",
+        "side.b": "13/16",
+        "weight": ".2"
+      },
+      {
+        "sku": "451",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "40",
+        "side.a": "1 7/8",
+        "side.b": "7/8",
+        "weight": ".26"
+      },
+      {
+        "sku": "651",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "25",
+        "side.a": "1 7/8",
+        "side.b": "1 1/4",
+        "weight": ".77"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/13_CO_PLUG_sql.jpg?v=1490815841",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/13_CO_PLUG_sqr.jpg?v=1490815783"
+    ]
+  },
+  {
+    "title": "SCH 40 Adapter",
+    "handle": "sch-40-adapter",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "458",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "20",
+        "side.a": "5",
+        "side.b": "1/8",
+        "side.c": "3 13/16",
+        "weight": ".63"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/8_ADAPTER_c_sql.jpg?v=1490819577",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/8_ADAPTER_c_sqr.jpg?v=1490819640"
+    ]
+  },
+  {
+    "title": "Cap",
+    "handle": "cap",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "348",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "40",
+        "side.a": "1 11/16",
+        "side.b": "1/8",
+        "weight": ".13"
+      },
+      {
+        "sku": "448",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "80",
+        "side.a": "1 15/16",
+        "side.b": "3/16",
+        "weight": ".21"
+      },
+      {
+        "sku": "7448",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "80",
+        "side.a": "1 15/16",
+        "side.b": "3/16",
+        "weight": ".29"
+      },
+      {
+        "sku": "648",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "24",
+        "side.a": "3 3/4",
+        "side.b": "5/8",
+        "weight": ".93"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/9_CAP_sql.jpg?v=1490731197",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/9_CAP_sqr.jpg?v=1490731201"
+    ]
+  },
+  {
+    "title": "Coupling",
+    "handle": "coupling",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "300",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "80",
+        "side.a": "3 1/4",
+        "side.b": "1/8",
+        "weight": ".17"
+      },
+      {
+        "sku": "400",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "40",
+        "side.a": "3 5/8",
+        "side.b": "1/8",
+        "weight": ".27"
+      },
+      {
+        "sku": "7400",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "40",
+        "side.a": "3 5/8",
+        "side.b": "1/8",
+        "weight": ".35"
+      },
+      {
+        "sku": "600",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "18",
+        "side.a": "6 1/4",
+        "side.b": "1/4",
+        "weight": "1.23"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/1_COUPLING_a_sql.jpg?v=1490615806",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/1_COUPLING_a_sqr.jpg?v=1490615810"
+    ]
+  },
+  {
+    "title": "Cross",
+    "handle": "cross",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "490",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "10",
+        "side.a": "7 7/8",
+        "side.b": "2 1/8",
+        "side.c": "4 3/16",
+        "weight": "1.22"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/15_CROSS_sql.jpg?v=1490814094",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/15_CROSS_sqr.jpg?v=1490814101"
+    ]
+  },
+  {
+    "title": "Drain Grate",
+    "handle": "drain-grate",
+    "description": "<span>Suitable for sewer and drain applications. </span>",
+    "variants": [
+      {
+        "sku": "347",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "30",
+        "side.a": "3 1/4",
+        "side.b": "1 1/2",
+        "side.c": "5/16",
+        "weight": ".17"
+      },
+      {
+        "sku": "447",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "40",
+        "side.a": "4 1/4",
+        "side.b": "1 1/2",
+        "side.c": "1/4",
+        "weight": ".31"
+      },
+      {
+        "sku": "7447",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "40",
+        "side.a": "4 1/4",
+        "side.b": "1 3/4",
+        "side.c": "1/4",
+        "weight": ".31"
+      },
+      {
+        "sku": "647",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "15",
+        "side.a": "6 1/4",
+        "side.b": "3",
+        "side.c": "3/8",
+        "weight": ".95"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/7_DRAIN_GRATE_sql.jpg?v=1490729727",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/7_DRAIN_GRATE_sqr.jpg?v=1490729732"
+    ]
+  },
+  {
+    "title": "3\" Reducer Bushing",
+    "handle": "reducer-bushing-nested",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> note: 1 1/2\" size is DWV Scheduled 40</p>",
+    "variants": [
+      {
+        "sku": "446",
+        "size": "3\" x 1 1/2\"",
+        "material": "Polystyrene",
+        "box": "50",
+        "side.a": "3 1/4",
+        "side.b": "1 1/2",
+        "side.c": "1/8",
+        "weight": ".16"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/6_BUSHING_b_sql.jpg?v=1490789064",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/6_BUSHING_b_sqr.jpg?v=1490789064"
+    ]
+  },
+  {
+    "title": "4\" Reducer Bushing",
+    "handle": "4-reducer-bushing",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> note: 1 1/2\" size is DWV Scheduled 40</p>",
+    "variants": [
+      {
+        "sku": "446",
+        "size": "4\" x 1 1/2\"",
+        "material": "PVC",
+        "box": "40",
+        "side.a": "4 1/2",
+        "side.b": "2",
+        "side.c": "1 1/8",
+        "side.d": "1/4",
+        "weight": ".35"
+      },
+      {
+        "sku": "442",
+        "size": "4\" x 3\"",
+        "material": "PVC",
+        "box": "40",
+        "side.a": "4 1/2",
+        "side.b": "2 1/2",
+        "side.c": "3/16",
+        "side.d": "1/2",
+        "weight": ".33"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/6_BUSHING_a_sql.jpg?v=1490791289",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/6_BUSHING_a_sqr.jpg?v=1490791295"
+    ]
+  },
+  {
+    "title": "6\" Reducer Bushing",
+    "handle": "6-reducer-bushing",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "605",
+        "size": "6\" x 4\"",
+        "material": "PVC",
+        "box": "18",
+        "side.a": "6 5/8",
+        "side.b": "6 1/4",
+        "side.c": "3 1/8",
+        "side.d": "1 1/4",
+        "weight": "1.03"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/6_BUSHING_c_sql.jpg?v=1490791944",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/6_BUSHING_c_sqr.jpg?v=1490791947"
+    ]
+  },
+  {
+    "title": "Reducer Coupling",
+    "handle": "reducer-coupling",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "405",
+        "size": "4\" x 3\"",
+        "material": "Polystyrene",
+        "box": "50",
+        "side.a": "4",
+        "side.b": "7/8",
+        "weight": ".25"
+      },
+      {
+        "sku": "604",
+        "size": "6\" x 4\"",
+        "material": "PVC",
+        "box": "18",
+        "side.a": "6 1/4",
+        "side.b": "1 1/4",
+        "weight": "1.23"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/1_COUPLING_b_sql.jpg?v=1490126884",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/1_COUPLING_b_sqr.jpg?v=1490126889"
+    ]
+  },
+  {
+    "title": "Sanitary Tee",
+    "handle": "sanitary-tee",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "341",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "40",
+        "side.a": "7 7/8",
+        "side.b": "2 3/4",
+        "side.c": "4 5/8",
+        "side.d": "6 5/8",
+        "weight": ".6"
+      },
+      {
+        "sku": "441",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "22",
+        "side.a": "9 7/16",
+        "side.b": "3 7/8",
+        "side.c": "5 5/8",
+        "side.d": "8",
+        "weight": ".93"
+      },
+      {
+        "sku": "7441",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "22",
+        "side.a": "9 7/16",
+        "side.b": "3 7/8",
+        "side.c": "5 5/8",
+        "side.d": "8",
+        "weight": "1.24"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/5_TEE_b_sql.jpg?v=1490723965",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/5_TEE_b_sqr.jpg?v=1490723971"
+    ]
+  },
+  {
+    "title": "Tee",
+    "handle": "tee",
+    "description": "<p><span>Suitable for sewer and drain applications.</span></p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "340",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "60",
+        "side.a": "6 1/4",
+        "side.b": "1 5/8",
+        "side.c": "3 3/16",
+        "weight": ".35"
+      },
+      {
+        "sku": "440",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "25",
+        "side.a": "7 7/8",
+        "side.b": "2 1/8",
+        "side.c": "4 3/16",
+        "weight": ".7"
+      },
+      {
+        "sku": "7440",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "25",
+        "side.a": "7 7/8",
+        "side.b": "2 1/8",
+        "side.c": "4 3/16",
+        "weight": ".93"
+      },
+      {
+        "sku": "640",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "6",
+        "side.a": "12 3/8",
+        "side.b": "3 1/8",
+        "side.c": "6 3/16",
+        "weight": "3.01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/5_TEE_a_sql.jpg?v=1490644972",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/5_TEE_a_sqr.jpg?v=1490644976"
+    ]
+  },
+  {
+    "title": "Wye",
+    "handle": "wye",
+    "description": "Suitable for sewer and drain applications.",
+    "variants": [
+      {
+        "sku": "360",
+        "size": "3\"",
+        "material": "Polystyrene",
+        "box": "40",
+        "side.a": "8",
+        "side.b": "3 1/4",
+        "side.c": "4 3/8",
+        "side.d": "7 1/8",
+        "weight": ".7"
+      },
+      {
+        "sku": "460",
+        "size": "4\"",
+        "material": "Polystyrene",
+        "box": "22",
+        "side.a": "9 13/16",
+        "side.b": "4 5/8",
+        "side.c": "6 1/8",
+        "side.d": "8 7/8",
+        "weight": "1.18"
+      },
+      {
+        "sku": "7460",
+        "size": "4\"",
+        "material": "PVC",
+        "box": "22",
+        "side.a": "9 13/16",
+        "side.b": "4 5/8",
+        "side.c": "6 1/8",
+        "side.d": "8 7/8",
+        "weight": "1.57"
+      },
+      {
+        "sku": "660",
+        "size": "6\"",
+        "material": "PVC",
+        "box": "4",
+        "side.a": "15 3/16",
+        "side.b": "10 3/4",
+        "side.c": "9",
+        "side.d": "13 1/2",
+        "weight": "3.1"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/14_WYE_sql.jpg?v=1490818235",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/14_WYE_sqr.jpg?v=1490818288"
+    ]
+  },
+  {
+    "title": "Polyethylene Pipe",
+    "handle": "pe-pipe",
+    "description": "<p><strong>Savko Plastic Pipe &amp; Fittings 3\" and 4\" HDPE 3000# Crush Pipe. </strong></p>\n<p>Our pipe is constructed of a smooth single wall <strong>H</strong>igh <strong>D</strong>ensity <strong>P</strong>oly<strong>e</strong>thylene supplied in 10' lengths and is bell-spigot. The belled end is intricately formed to create a tight connection. This pipe is tough durable, strong; and corrosion-proof. For use as underground drains, storm drainage, house septic system connections, leach systems, foundation drainage and landscape drainage. Available in both Solid and Perforated. The perforated pipe has 2 rows of holes on the bottom 5\" on center and 120º apart. 3\" has 1/2\" holes and 4\" has 5/8\" holes. Savko's Pipe meets the requirements for classifications ASTM-D 3350 and ASTM-F 810 </p>\n<p> </p>",
+    "variants": [
+      {
+        "sku": "395",
+        "size": "3\"",
+        "material": "Solid",
+        "box": "2000",
+        "side.a": "3 1/2",
+        "side.b": "3 7/32",
+        "side.c": "2 7/8",
+        "weight": "3.6"
+      },
+      {
+        "sku": "399",
+        "size": "3\"",
+        "material": "Perforated",
+        "box": "2000",
+        "side.a": "3 1/2",
+        "side.b": "3 7/32",
+        "side.c": "2 7/8",
+        "weight": "3.6"
+      },
+      {
+        "sku": "495",
+        "size": "4\"",
+        "material": "Solid",
+        "box": "1200",
+        "side.a": "4 1/2",
+        "side.b": "4 7/32",
+        "side.c": "3",
+        "weight": "5.4"
+      },
+      {
+        "sku": "499",
+        "size": "4\"",
+        "material": "Perforated",
+        "box": "1200",
+        "side.a": "4 1/2",
+        "side.b": "4 7/32",
+        "side.c": "3",
+        "weight": "5.4"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/PIPE_sql.jpg?v=1490635371",
+      "https://cdn.shopify.com/s/files/1/1167/4686/products/PIPE_sqr.jpg?v=1490360637"
+    ]
+  }
+]
