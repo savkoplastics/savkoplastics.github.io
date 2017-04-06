@@ -16,8 +16,7 @@ layout: default
     <a href="/products/{{ product.handle }}" class="product-grid-item product-list-item">
       <div class="grid">
         <div class="grid-item whole">
-          <img src="{{ product.images[0] }}" alt="{{ product.handle }}" height="160" width="160">
-          <!-- make image compact CDN size & include alt tag with encoding -->
+          <img src="{{ product.images[0] | replace: '.jpg', '_compact.jpg' }}" alt="{{ product.handle }}">
         </div>
         <div class="grid-item whole">
           <p class="h2">{{ product.title }}</p>
