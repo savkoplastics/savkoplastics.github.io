@@ -12,7 +12,7 @@ layout: default
           <img src="{{ product.images[0] }}" alt="{{ product.handle }}" height="160" width="160">
           <!-- make image compact CDN size & include alt tag with encoding -->
         </div>
-        <div class="grid-item four-fifths">
+        <div class="grid-item whole">
           <p class="h3">{{ product.title }}</p>
         </div>
       </div>
