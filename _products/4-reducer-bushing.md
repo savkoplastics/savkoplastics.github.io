@@ -3,6 +3,7 @@ product:
     title: '4" Reducer Bushing'
     handle: 4-reducer-bushing
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_note: 1 1/2\" size is DWV Scheduled 40</p>"
+    position: 22
     variants:
         -
             sku: '446'

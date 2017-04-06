@@ -3,9 +3,8 @@ layout: default
 ---
 
 <div class="grid-uniform">
-
-{% for product_wrapper in site.products %}
-  {% assign product = product_wrapper.product %}
+{% assign products = site.products | map:'product' | sort: 'position' %}
+{% for product in products %}
   <div class="grid-item large--one-quarter medium-down--one-half product">
     <a href="/products/{{ product.handle }}" class="product-grid-item product-list-item">
       <div class="grid">

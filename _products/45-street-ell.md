@@ -3,6 +3,7 @@ product:
     title: '45º Street Elbow'
     handle: 45-street-ell
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 3
     variants:
         -
             sku: '333'

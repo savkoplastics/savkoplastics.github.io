@@ -3,6 +3,7 @@ product:
     title: '90º Long Turn Elbow'
     handle: 90-long-turn-ell
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 5
     variants:
         -
             sku: '335'

@@ -3,6 +3,7 @@ product:
     title: '3" Reducer Bushing'
     handle: reducer-bushing-nested
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_note: 1 1/2\" size is DWV Scheduled 40</p>"
+    position: 21
     variants:
         -
             sku: '446'

@@ -3,6 +3,7 @@ product:
     title: 'Downspout Adapter, Centered'
     handle: downspout-adapter
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 7
     variants:
         -
             sku: '356'
@@ -15,7 +16,7 @@ product:
             side.d: '1 3/4'
             weight: '.28'
         -
-            sku: '457'
+            sku: '7457'
             size: '3" x 4" x 4"'
             material: PVC
             box: '30'

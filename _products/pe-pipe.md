@@ -3,6 +3,7 @@ product:
     title: 'Polyethylene Pipe'
     handle: pe-pipe
     description: "<p><strong>Savko Plastic Pipe &amp; Fittings 3\" and 4\" HDPE 3000# Crush Pipe.\_</strong></p>\n<p>Our\_pipe is constructed of a smooth single wall <strong>H</strong>igh <strong>D</strong>ensity <strong>P</strong>oly<strong>e</strong>thylene supplied in 10' lengths and is bell-spigot. The belled end is intricately formed to create a tight connection. This pipe is tough durable, strong; and corrosion-proof. For use as underground drains, storm drainage, house septic system connections, leach systems, foundation drainage and landscape drainage. Available in both Solid and Perforated. The perforated pipe has 2 rows of holes on the bottom 5\" on center and 120º apart. 3\" has 1/2\" holes and 4\" has 5/8\" holes. Savko's Pipe meets the requirements for classifications ASTM-D 3350 and ASTM-F 810\_</p>\n<p>\_</p>"
+    position: 28
     variants:
         -
             sku: '395'

@@ -3,6 +3,7 @@ product:
     title: 'Downspout Adapter, Offset'
     handle: downspout-adapter-offset
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 8
     variants:
         -
             sku: '423'

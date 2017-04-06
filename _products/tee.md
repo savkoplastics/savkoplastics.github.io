@@ -3,6 +3,7 @@ product:
     title: Tee
     handle: tee
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 26
     variants:
         -
             sku: '340'

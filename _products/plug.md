@@ -3,6 +3,7 @@ product:
     title: Plug
     handle: plug
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 15
     variants:
         -
             sku: '351'

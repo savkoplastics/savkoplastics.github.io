@@ -3,6 +3,7 @@ product:
     title: Cap
     handle: cap
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 17
     variants:
         -
             sku: '348'

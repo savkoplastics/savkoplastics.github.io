@@ -3,6 +3,7 @@ product:
     title: Cross
     handle: cross
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 19
     variants:
         -
             sku: '490'

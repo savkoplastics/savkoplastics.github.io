@@ -3,6 +3,7 @@ product:
     title: '90º Long Turn Street Elbow'
     handle: 90-long-turn-street-ell
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 6
     variants:
         -
             sku: '336'

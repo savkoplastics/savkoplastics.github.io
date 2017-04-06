@@ -3,6 +3,7 @@ product:
     title: 'SCH 40 Adapter'
     handle: sch-40-adapter
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 16
     variants:
         -
             sku: '458'

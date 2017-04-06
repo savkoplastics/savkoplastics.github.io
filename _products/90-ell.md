@@ -3,6 +3,7 @@ product:
     title: '90º Elbow'
     handle: 90-ell
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 4
     variants:
         -
             sku: '332'

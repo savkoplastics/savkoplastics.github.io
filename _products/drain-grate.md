@@ -3,6 +3,7 @@ product:
     title: 'Drain Grate'
     handle: drain-grate
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 20
     variants:
         -
             sku: '347'

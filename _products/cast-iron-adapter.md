@@ -3,6 +3,7 @@ product:
     title: 'Cast Iron Adapter'
     handle: cast-iron-adapter
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 11
     variants:
         -
             sku: '455'

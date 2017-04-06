@@ -3,6 +3,7 @@ product:
     title: 'Downspout Adapter, Reducing'
     handle: downspout-adapter-reducing
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 9
     variants:
         -
             sku: '343'

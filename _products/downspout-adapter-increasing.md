@@ -3,6 +3,7 @@ product:
     title: 'Downspout Adapter, Increasing'
     handle: downspout-adapter-increasing
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 10
     variants:
         -
             sku: '456'

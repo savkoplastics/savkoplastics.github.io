@@ -3,6 +3,7 @@ product:
     title: 'Clay Adapter'
     handle: clay-adapter
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 12
     variants:
         -
             sku: '445'

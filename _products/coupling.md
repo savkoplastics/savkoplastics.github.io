@@ -3,6 +3,7 @@ product:
     title: Coupling
     handle: coupling
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 18
     variants:
         -
             sku: '300'

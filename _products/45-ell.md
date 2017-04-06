@@ -3,6 +3,7 @@ product:
     title: '45º Elbow'
     handle: 45-ell
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 2
     variants:
         -
             sku: '332'

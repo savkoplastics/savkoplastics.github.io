@@ -3,6 +3,7 @@ product:
     title: '6" Reducer Bushing'
     handle: 6-reducer-bushing
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 23
     variants:
         -
             sku: '605'

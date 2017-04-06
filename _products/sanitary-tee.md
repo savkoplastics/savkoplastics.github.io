@@ -3,6 +3,7 @@ product:
     title: 'Sanitary Tee'
     handle: sanitary-tee
     description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 25
     variants:
         -
             sku: '341'

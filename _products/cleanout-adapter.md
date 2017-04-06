@@ -3,6 +3,7 @@ product:
     title: 'Cleanout Adapter'
     handle: cleanout-adapter
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 13
     variants:
         -
             sku: '349'

@@ -3,6 +3,7 @@ product:
     title: 'Female Adapter'
     handle: female-adapter
     description: '<span>Suitable for sewer and drain applications. </span>'
+    position: 14
     variants:
         -
             sku: '374'

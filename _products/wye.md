@@ -3,6 +3,7 @@ product:
     title: Wye
     handle: wye
     description: 'Suitable for sewer and drain applications.'
+    position: 27
     variants:
         -
             sku: '360'
