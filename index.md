@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header class="section-header">
-  <h1 class="section-header--title">Manufacturing</h1>
+  <h1>Manufacturing</h1>
   <div class="rte rte--header" style="font-size: 15px">
     For over 50 years we have been manufacturing plastic pipe and fittings. Our Sewer and Drain Fittings<span> (S&amp;D)</span> are made of two different materials. Polystyrene, available in 3" and 4" meets the ASTM-D 2852 Standard. We also have PVC, available in 4" and 6" which meets the ASTM-D 3034 Standard.
   </div>
