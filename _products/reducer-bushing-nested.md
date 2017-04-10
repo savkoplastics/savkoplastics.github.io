@@ -2,7 +2,7 @@
 product:
     title: '3" Reducer Bushing'
     handle: reducer-bushing-nested
-    description: "<p><span>Features a spigot\_x hub connection.</span></p>\n<p><span>Used to Reduce a fitting to a smaller size pipe.</span></p>\n<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_note: 1 1/2\" size is DWV Scheduled 40</p>"
+    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_note: 1 1/2\" size is DWV Scheduled 40</p>"
     position: 21
     variants:
         -

@@ -2,7 +2,7 @@
 product:
     title: '90º Long Turn Street Elbow'
     handle: 90-long-turn-street-ell
-    description: "<p><span>Features a\_spigot x hub connection with a sweep for better flow.</span></p>\n<p><span>Used for changing direction in a piping system.</span></p>\n<p><span>Joined to the pipe by solvent cementing.</span></p>\n<p>Suitable for sewer and drain applications.\_</p>\n<p>\_</p>"
+    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
     position: 6
     variants:
         -

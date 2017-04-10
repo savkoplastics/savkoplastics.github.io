@@ -2,8 +2,8 @@
 product:
     title: Cross
     handle: cross
-    description: "<p><span>Features an all hub connection.</span></p>\n<p><span>Used to\_connect two\_pipes to a straight run at a 90 degree\_angle at a single point.</span></p>\n<p><span>Joined to the pipe by solvent cementing.</span></p>\n<p><span>Suitable for sewer and drain applications.</span></p>"
-    position: 27
+    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    position: 19
     variants:
         -
             sku: '490'

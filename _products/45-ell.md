@@ -2,7 +2,7 @@
 product:
     title: '45º Elbow'
     handle: 45-ell
-    description: "<p><span>Features a hub x hub connection.</span></p>\n<p><span>Used for changing direction in a piping system.</span></p>\n<p><span>Joined to the pipe by solvent cementing.</span></p>\n<p>Suitable for sewer and drain applications.\_</p>\n<p><span>Sometimes referred to as an 1/8 bend. \_</span></p>"
+    description: '<span>Suitable for sewer and drain applications. </span>'
     position: 2
     variants:
         -
