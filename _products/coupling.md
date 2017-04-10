@@ -2,8 +2,8 @@
 product:
     title: Coupling
     handle: coupling
-    description: '<span>Suitable for sewer and drain applications. </span>'
-    position: 18
+    description: "<p><span>Features a hub x hub connection.</span></p>\n<p><span>used to connect two pipes of the same size in a straight\_line.</span></p>\n<p><span>Suitable for sewer and drain applications.\_</span></p>"
+    position: 19
     variants:
         -
             sku: '300'

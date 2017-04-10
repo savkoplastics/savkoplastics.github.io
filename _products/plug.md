@@ -2,8 +2,8 @@
 product:
     title: Plug
     handle: plug
-    description: '<span>Suitable for sewer and drain applications. </span>'
-    position: 15
+    description: "<p><span>Features a MPT connection.</span></p>\n<p><span>Used inside a\_Cleanout\_Adapter or a Female Adapter to seal the end of a pipe.</span></p>\n<p><span>Suitable for sewer and drain applications.\_</span></p>"
+    position: 16
     variants:
         -
             sku: '351'

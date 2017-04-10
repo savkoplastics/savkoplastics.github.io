@@ -2,8 +2,8 @@
 product:
     title: 'Drain Grate'
     handle: drain-grate
-    description: '<span>Suitable for sewer and drain applications. </span>'
-    position: 20
+    description: "<p><span>Features a spigot connection.</span></p>\n<p><span>Used to keep objects from falling into the drain.</span></p>\n<p><span>Suitable for sewer and drain applications.\_</span></p>"
+    position: 18
     variants:
         -
             sku: '347'

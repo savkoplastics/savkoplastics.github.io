@@ -2,7 +2,7 @@
 product:
     title: 'Downspout Adapter, Centered'
     handle: downspout-adapter
-    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    description: "<p><span>Features a\_rectangle x hub connection.</span></p>\n<p>Used to\_connect downspouts to underground\_drain pipe.</p>\n<p><span>Joined to the pipe by solvent cementing.</span></p>\n<p>Suitable<span>\_for sewer and drain applications.</span></p>"
     position: 7
     variants:
         -

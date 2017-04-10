@@ -2,7 +2,7 @@
 product:
     title: Cap
     handle: cap
-    description: '<span>Suitable for sewer and drain applications. </span>'
+    description: "<p><span>Features a hub connection.</span></p>\n<p><span>Used to seal the end of a pipe.</span></p>\n<p><span>Suitable for sewer and drain applications.\_</span></p>"
     position: 17
     variants:
         -

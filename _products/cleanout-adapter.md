@@ -2,8 +2,8 @@
 product:
     title: 'Cleanout Adapter'
     handle: cleanout-adapter
-    description: '<span>Suitable for sewer and drain applications. </span>'
-    position: 13
+    description: "<p><span>Features a\_FPT x spigot\_connection.</span></p>\n<p><span>Used with a Tee or Wye fitting to provide easy access to clear clogged\_pipe.</span></p>\n<p><span>Suitable for sewer and drain applications.\_</span></p>"
+    position: 14
     variants:
         -
             sku: '349'

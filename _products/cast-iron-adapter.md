@@ -2,7 +2,7 @@
 product:
     title: 'Cast Iron Adapter'
     handle: cast-iron-adapter
-    description: '<span>Suitable for sewer and drain applications. </span>'
+    description: "<div>\n<p><span>Use to\_connect cast iron pipe to S &amp; D\_pipe.\_</span></p>\n<p><span>Suitable for sewer and drain applications.</span></p>\n</div>"
     position: 11
     variants:
         -
