@@ -2,7 +2,7 @@
 product:
     title: '90º Elbow'
     handle: 90-ell
-    description: '<span>Suitable for sewer and drain applications. </span>'
+    description: '<ul><li>Features a hub x hub connection.</li><li>Used for changing direction in a piping system.</li><li>Joined to the pipe by solvent cementing.</li><li>Suitable for sewer and drain applications.</li></ul>'
     position: 4
     variants:
         -

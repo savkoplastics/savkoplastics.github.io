@@ -2,7 +2,7 @@
 product:
     title: '90º Long Turn Elbow'
     handle: 90-long-turn-ell
-    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    description: '<ul><li>Features a hub x hub connection with a sweep for better flow.</li><li>Used for changing direction in a piping system.</li><li>Joined to the pipe by solvent cementing.</li><li>Suitable for sewer and drain applications. </li><li>Sometimes referred to as a 1/4 bend.  </li></ul>'
     position: 5
     variants:
         -

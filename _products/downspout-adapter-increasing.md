@@ -2,11 +2,11 @@
 product:
     title: 'Downspout Adapter, Increasing'
     handle: downspout-adapter-increasing
-    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    description: '<ul><li>Features a rectangle x hub connection.</li><li>Used to connect downspouts to underground drain pipe.</li><li>Joined to the pipe by solvent cementing.</li><li>Suitable for sewer and drain applications. </li></ul>'
     position: 10
     variants:
         -
-            sku: '456'
+            sku: '7456'
             size: '2" x 3" x 4"'
             material: PVC
             box: '60'

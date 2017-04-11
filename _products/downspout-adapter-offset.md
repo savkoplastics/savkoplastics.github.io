@@ -2,11 +2,11 @@
 product:
     title: 'Downspout Adapter, Offset'
     handle: downspout-adapter-offset
-    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    description: '<ul><li>Features a rectangle x hub connection.</li><li>Used to connect downspouts to underground drain pipe.</li><li>Joined to the pipe by solvent cementing.</li><li>for sewer and drain applications. </li></ul>'
     position: 8
     variants:
         -
-            sku: '423'
+            sku: '7423'
             size: '2" x 3" x 4"'
             material: PVC
             box: '40'

@@ -2,7 +2,7 @@
 product:
     title: 'Sanitary Tee'
     handle: sanitary-tee
-    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    description: '<p><span>Features a hub x hub x hub connection with a directional sweep for better flow.</span></p><p><span>Used to connect a pipe to a straight run at a 90 degree angle.</span></p><p><span>Joined to the pipe by solvent cementing.</span></p><p><span>Suitable for sewer and drain applications.</span></p><p> </p>'
     position: 25
     variants:
         -

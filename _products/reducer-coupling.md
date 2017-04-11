@@ -2,8 +2,8 @@
 product:
     title: 'Reducer Coupling'
     handle: reducer-coupling
-    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
-    position: 24
+    description: '<ul><li>Features a hub x hub connection.</li><li>Used to connect one pipe to one of a smaller size in a straight line.</li><li>Joined to the pipe by solvent cementing.</li><li>Suitable for sewer and drain applications.</li></ul>'
+    position: 20
     variants:
         -
             sku: '405'

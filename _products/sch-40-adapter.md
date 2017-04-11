@@ -2,8 +2,8 @@
 product:
     title: 'SCH 40 Adapter'
     handle: sch-40-adapter
-    description: '<span>Suitable for sewer and drain applications. </span>'
-    position: 16
+    description: '<ul><li>Features a hub x hub connection.</li><li>Used to connect PVC Schedule 40 pipe to S &amp; D pipe.</li><li>Suitable for sewer and drain applications.</li></ul>'
+    position: 13
     variants:
         -
             sku: '458'

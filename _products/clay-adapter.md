@@ -2,7 +2,7 @@
 product:
     title: 'Clay Adapter'
     handle: clay-adapter
-    description: '<span>Suitable for sewer and drain applications. </span>'
+    description: '<ul><li>Use to connect clay pipe to S &amp; D pipe. </li><li>Suitable for sewer and drain applications. </li></ul>'
     position: 12
     variants:
         -

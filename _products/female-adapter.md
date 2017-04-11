@@ -2,8 +2,8 @@
 product:
     title: 'Female Adapter'
     handle: female-adapter
-    description: '<span>Suitable for sewer and drain applications. </span>'
-    position: 14
+    description: '<li>Features a FPT x hub connection.</li><li>Use to adapt a threaded connection to a solvent weld connection. It can also be used as a cleanout when a hub connection is needed.</li><li>Joined to the pipe by solvent cementing.</li><li>Suitable for sewer and drain applications. </li>'
+    position: 15
     variants:
         -
             sku: '374'

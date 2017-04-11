@@ -2,8 +2,8 @@
 product:
     title: Tee
     handle: tee
-    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
-    position: 26
+    description: '<ul><li>Features a hub x hub x hub connection.</li><li>Used to connect a pipe to a straight run at a 90 degree angle.</li><li>Joined to the pipe by solvent cementing.</li><li>Suitable for sewer and drain applications</li></ul>'
+    position: 24
     variants:
         -
             sku: '340'

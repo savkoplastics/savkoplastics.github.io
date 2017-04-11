@@ -2,7 +2,7 @@
 product:
     title: '6" Reducer Bushing'
     handle: 6-reducer-bushing
-    description: "<p><span>Suitable for sewer and drain applications.</span></p>\n<p>\_</p>"
+    description: '<ul><li>Features a spigot x hub connection.</li><li>Used to Reduce a fitting to a smaller size pipe.</li><li>Suitable for sewer and drain applications.</li></ul>'
     position: 23
     variants:
         -
