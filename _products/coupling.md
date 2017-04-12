@@ -38,6 +38,6 @@ product:
             side.b: 1/4
             weight: '1.23'
     images:
-        - 'https://cdn.shopify.com/s/files/1/1167/4686/products/1_COUPLING_a_sql.jpg?v=1492017515'
-        - 'https://cdn.shopify.com/s/files/1/1167/4686/products/1_COUPLING_a_sqr.jpg?v=1490615810'
+        - 'https://cdn.shopify.com/s/files/1/1167/4686/products/1_COUPLING_a_sql.jpg?v=1492018221'
+        - 'https://cdn.shopify.com/s/files/1/1167/4686/products/1_COUPLING_a_sqr.jpg?v=1492018228'
 ---
