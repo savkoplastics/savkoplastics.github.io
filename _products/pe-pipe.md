@@ -42,6 +42,6 @@ product:
             side.c: '3'
             weight: '5.4'
     images:
-        - 'https://cdn.shopify.com/s/files/1/1167/4686/products/savkopipe.jpg?v=1491931707'
-        - 'https://cdn.shopify.com/s/files/1/1167/4686/products/PIPE_sqr.jpg?v=1491931707'
+        - 'https://cdn.shopify.com/s/files/1/1167/4686/products/savkopipenew4.jpg?v=1492009627'
+        - 'https://cdn.shopify.com/s/files/1/1167/4686/products/PIPE_sqr.jpg?v=1492009627'
 ---
