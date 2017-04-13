@@ -6,7 +6,25 @@
 <body>
   {% include header.html %}
 
-  <main class="wrapper main-content">
+  <style>
+    .hero {
+      border-top: 0 solid #dcdcdc;
+      border-bottom: 0 solid #dcdcdc;
+      background-color: #dcdcdc;
+      background-image: url(//cdn.shopify.com/s/files/1/1167/4686/files/crop2_1024x1024.png?18181729891553411738);
+      background-repeat: no-repeat;
+      background-attachment: scroll;
+      background-position: center center;
+      overflow: hidden;
+      position: relative;
+      background-size: cover;
+      height: 500px;
+    }
+  </style>
+
+  <div class="hero">
+  </div>
+  <main class="wrapper main-content" style="padding: 60px 0">
       {{ content }}
   </main>
 
