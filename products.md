@@ -6,7 +6,7 @@ layout: products
   <div class="rte rte--header" style="font-size: 17px;">
     <h2 style="margin-bottom: 20px;">Sewer and Drain</h2>
     <p>
-      Our Sewer and Drain Fittings (S&D) are made of two different materials: Polystyrene, available in 3" and 4", meets the ASTM-D 2852 standard; and PVC, available in 4" and 6", meets the ASTM-D 3034 standard. In addition to these standards, we scrutinize every part against our own internal specification, ensuring our customers receive only the highest quality parts.
+      Our Sewer and Drain Fittings (S&D) are made of two different materials: Polystyrene, available in 3" and 4", meets the ASTM-D 2852 standard; and PVC, available in 4" and 6", meets the ASTM-D 3034 standard. In addition to these standards, we scrutinize every part against our own internal specification to ensure our customers receive only the highest quality products.
     </p>
   </div>
 </header>
