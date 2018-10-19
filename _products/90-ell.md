@@ -6,7 +6,7 @@ product:
     position: 4
     variants:
         -
-            sku: '332'
+            sku: '334'
             size: '3"'
             material: Polystyrene
             box: '80'
@@ -14,7 +14,7 @@ product:
             side.b: '1 5/8'
             weight: '.3'
         -
-            sku: '432'
+            sku: '434'
             size: '4"'
             material: Polystyrene
             box: '35'
@@ -22,7 +22,7 @@ product:
             side.b: '2 1/16'
             weight: '.59'
         -
-            sku: '7432'
+            sku: '7434'
             size: '4"'
             material: PVC
             box: '35'
@@ -30,7 +30,7 @@ product:
             side.b: '2 1/16'
             weight: '.78'
         -
-            sku: '632'
+            sku: '634'
             size: '6"'
             material: PVC
             box: '8'
